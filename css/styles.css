@@ -1,0 +1,24 @@
+  body {
+    background-color: white;
+  }
+
+  hr {
+    /*border-style: dotted none none;*//*<--This line does the exact same thing as the two lines below:*/
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 4%;
+  }
+
+  img {
+    height: 100px;
+  }
+
+  h1 {
+    color: #0f4c75;
+  }
+
+  h3 {
+    color: #0f4c75;
+  }
